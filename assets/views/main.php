@@ -5,9 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <title>Follow PHP Developers</title>
+        <title>Rockstar PHP Developers</title>
         
-        <meta name="description" content="Follow well know PHP developers with a single click">
+        <meta name="description" content="Follow rockstar PHP developers with a single click">
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,16 +20,18 @@
             }
             
             .jumbotron h1{
-                font-size: 66px;
+                font-size: 60px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="jumbotron">
-                <h1>Follow PHP Developers</h1>
-                    <p class="lead">To practice using the Twitter API I made this small tool to let you follow amazing
-                        PHP developers: framework creators, core contributors and frequent conference speakers.</p>
+                <h1>Rockstar PHP Developers</h1>
+                    <p class="lead">This is an opensource alternative to <a href="http://followphpdevs.com">followphpdevs.com</a>. One click
+and you will follow all these awesome PHP people.</p>
+
+
                     <div class="text-center">
                         <?php if(!$success): ?>
                             <a href="/twitter/auth" class="center-text btn btn-primary btn-lg text-center"><i class="fa fa-twitter"></i> Follow all <?=count($devs)?></a>
@@ -41,7 +43,9 @@
                         <br/><br/>
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="Follow <?=count($devs)?> awesome PHP developers with a single click" data-size="large" data-hashtags="PHP,webdev">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                    </div>
+  <br/>                 
+<small>Someone missing from the list? Feel free to suggest them <a href="https://github.com/dracony/phprockstars.com/blob/master/assets/config/devs.php">by sending a PR</a>.</small>
+</div>
             </div>
             
             <div class="row">
@@ -77,7 +81,7 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'followphpdevs';
+    var disqus_shortname = 'phprockstars';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
