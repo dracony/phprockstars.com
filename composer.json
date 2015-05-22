@@ -1,0 +1,6 @@
+{
+	"require": {
+		"phpixie/core": "2.*@dev",
+        "abraham/twitteroauth": "0.5.2"
+    }
+}
