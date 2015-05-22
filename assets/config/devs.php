@@ -473,4 +473,10 @@ return array (
     'desc' => 'Zend co-founder',
     'twitter' => 'zeevs',
   ),
+
+  array (
+    'name' => 'Akihito Koriyama',
+    'desc' => 'Author of BEAR.Sunday & Ray.DI',
+    'twitter' => 'koriym',
+  ),
 );
