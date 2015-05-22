@@ -43,6 +43,11 @@ return array (
     'desc' => 'Drupal Core developer',
     'twitter' => 'webchick',
   ),
+  array (
+    'name' => 'Anna Filina',
+    'desc' => 'ConFoo Organizer',
+    'twitter' => 'afilina',
+   ), 
  
   array (
     'name' => 'Anthony Ferrara',
