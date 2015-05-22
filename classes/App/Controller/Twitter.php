@@ -31,7 +31,7 @@ class Twitter extends \PHPixie\Controller {
         $request_token['oauth_token'] = $this->pixie->session->get('oauth_token');
         $request_token['oauth_token_secret'] = $this->pixie->session->get('oauth_token_secret');
 
-        if (isset($_REQUEST['oauth_token']) && $request_token['oauth_token'] !== $_REQUEST['oauth_token']) {
+        if (isset($_REQUEST['oauth_token']) && $request_token['oauth_token'] !== $_REQUEST['oauth_token'] || isset($_REQUEST['denied'])) {
             return $this->redirect('/');
         }
         
