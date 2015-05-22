@@ -371,6 +371,12 @@ return array (
     'desc' => 'PHP-FIG member',
     'twitter' => 'padraicb',
   ),
+  
+  array (
+    'name' => 'Paul Dragoonis',
+    'desc' => 'PHP.net, PHP-FIG, PPI Framework',
+    'twitter' => 'dr4goonis',
+  ),
 
   array (
     'name' => 'Paul M. Jones',
