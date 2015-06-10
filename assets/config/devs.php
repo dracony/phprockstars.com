@@ -74,6 +74,12 @@ return array (
   ),
 
   array (
+    'name' => 'Bob Weinand',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'bwoebi',
+  ),
+
+  array (
     'name' => 'Bruno Skvorc',
     'desc' => 'SitePoint PHP Editor',
     'twitter' => 'bitfalls',
@@ -113,6 +119,12 @@ return array (
     'name' => 'Davey Shafik',
     'desc' => 'Community Engineer at Engine Yard',
     'twitter' => 'dshafik',
+  ),
+
+  array (
+    'name' => 'David Soria Parra',
+    'desc' => 'PHP 5.5 Release Manager, PHP Core contributor',
+    'twitter' => 'dsp_',
   ),
 
   array (
@@ -182,6 +194,18 @@ return array (
   ),
 
   array (
+    'name' => 'Felipe Pena',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'felipensp',
+  ),
+
+  array (
+    'name' => 'Ferenc Kovacs',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'Tyr43l',
+  ),
+
+  array (
     'name' => 'Frank De Jonge',
     'desc' => 'PHP League member',
     'twitter' => 'frankdejonge',
@@ -197,6 +221,12 @@ return array (
     'name' => 'Graham Campbell',
     'desc' => 'Laravel contributor',
     'twitter' => 'grahamjcampbell',
+  ),
+
+  array (
+    'name' => 'Hannes Magnusson',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'bjori',
   ),
 
   array (
@@ -221,6 +251,12 @@ return array (
     'name' => 'Jeremy Lindblom',
     'desc' => 'Organizer of PNWPHP and SeaPHP',
     'twitter' => 'jeremeamia',
+  ),
+
+  array (
+    'name' => 'Joe Watkins',
+    'desc' => 'PHP 5.5 Release Manager, PHP Core contributor',
+    'twitter' => 'krakjoe',
   ),
 
   array (
@@ -263,6 +299,12 @@ return array (
     'name' => 'Juan Treminio',
     'desc' => 'PuPHPet creator',
     'twitter' => 'juantreminio',
+  ),
+
+  array (
+    'name' => 'Julien Pauli',
+    'desc' => 'PHP 5.5/5.6 Release Manager, PHP Core contributor',
+    'twitter' => 'julienPauli',
   ),
 
   array (
@@ -331,6 +373,12 @@ return array (
   ),
 
   array (
+    'name' => 'Michael Wallner',
+    'desc' => 'Author of PECL/http, PHP Core contributor',
+    'twitter' => '_m6w6',
+  ),
+
+  array (
     'name' => 'Michelle Sanver',
     'desc' => 'PHPwomen',
     'twitter' => 'michellesanver',
@@ -371,6 +419,12 @@ return array (
     'desc' => 'PHP-FIG member',
     'twitter' => 'padraicb',
   ),
+
+  array (
+    'name' => 'Patrick Allaert',
+    'desc' => 'Author of PECL/APM, PHP Core contributor',
+    'twitter' => 'patrick_allaert',
+  ),
   
   array (
     'name' => 'Paul Dragoonis',
@@ -394,6 +448,12 @@ return array (
     'name' => 'Phillip Jackson',
     'desc' => 'Magetalk host',
     'twitter' => 'philwinkle',
+  ),
+
+  array (
+    'name' => 'Pierre Joye',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'PierreJoye',
   ),
 
   array (
@@ -448,6 +508,12 @@ return array (
     'name' => 'Shawn McCool',
     'desc' => 'Laravel contributor',
     'twitter' => 'ShawnMcCool',
+  ),
+
+  array (
+    'name' => 'Stas Malyshev',
+    'desc' => 'PHP Core contributor',
+    'twitter' => 'smalyshev',
   ),
 
   array (
