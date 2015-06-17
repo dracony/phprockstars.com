@@ -75,7 +75,7 @@ return array (
 
   array (
     'name' => 'Bob Weinand',
-    'desc' => 'PHP Core contributor',
+    'desc' => 'phpdbg, PHP Core contributor',
     'twitter' => 'bwoebi',
   ),
 
