@@ -563,4 +563,16 @@ return array (
     'desc' => 'Author of BEAR.Sunday & Ray.DI',
     'twitter' => 'koriym',
   ),
+  
+  array(
+    'name' => 'Jakub Zalas'
+    'desc' => 'A Symfony maintainer',
+    'twitter' => 'jakub_zalas',
+  ),
+  
+  array(
+    'name' => 'Ciaran McNulty',
+    'desc' => 'Lead Maintainer of PHPSpec'
+    'twitter' => 'CiaranMcNulty',
+  ),
 );
