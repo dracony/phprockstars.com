@@ -509,6 +509,12 @@ return array (
     'desc' => 'Laravel contributor',
     'twitter' => 'ShawnMcCool',
   ),
+  
+  array (
+    'name' => 'Stefan Koopmanschap',
+    'desc' => 'PHP community person',
+    'twitter' => 'skoop',
+  ),
 
   array (
     'name' => 'Stas Malyshev',
