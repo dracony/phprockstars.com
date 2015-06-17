@@ -1,0 +1,7 @@
+language: php
+
+install:
+  - composer install
+
+script:
+  - find . -iname '*.php' | xargs php -l
