@@ -255,7 +255,7 @@ return array (
 
   array (
     'name' => 'Joe Watkins',
-    'desc' => 'PHP 5.5 Release Manager, PHP Core contributor',
+    'desc' => 'phpdbg, PHP Core contributor',
     'twitter' => 'krakjoe',
   ),
 
