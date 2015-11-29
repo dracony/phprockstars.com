@@ -62,7 +62,7 @@ and you will follow all these awesome PHP people.</p>
                             <div class="media">
                                 <div class="media-left media-middle">
                                     <a href="https://twitter.com/<?=$dev['twitter']?>">
-                                        <img class="media-object" src="http://avatars.io/twitter/<?=$dev['twitter']?>?size=small">
+                                        <img class="media-object" src="http://avatars.io/twitter/<?=$dev['twitter']?>?size=small" width="100" height="100">
                                     </a>
                                 </div>
                                 <div class="media-body">
