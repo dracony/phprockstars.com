@@ -308,9 +308,9 @@ return array (
   ),
 
   array (
-    'name' => 'Kayla Daniels',
+    'name' => 'Graham Daniels',
     'desc' => 'PHP-FIG member',
-    'twitter' => 'kayladnls',
+    'twitter' => 'greydnls',
   ),
 
   array (
